@@ -1,5 +1,5 @@
 # Weather App
-      Welcome to the Weather App! This application allows users to view the current weather, 5-day forecast, air quality index, and weather recommendations for multiple cities. Users can switch between light and dark modes, add and remove cities from their list, and save favorite cities for quick access. The app also supports auto-refresh to keep weather data up-to-date.
+      ###### Welcome to the Weather App! This application allows users to view the current weather, 5-day forecast, air quality index, and weather recommendations for multiple cities. Users can switch between light and dark modes, add and remove cities from their list, and save favorite cities for quick access. The app also supports auto-refresh to keep weather data up-to-date.
 
 ## Available Scripts
 
