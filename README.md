@@ -131,6 +131,9 @@ Welcome to the Weather App! This application allows users to view the current we
 ## APIs Used
      OpenWeatherMap API: Used to fetch current weather data, 5-day forecast, city suggestions, and air quality data.
         ![OpenWeatherMap API] (https://www.google.com/search?q=OpenWeatherMap+API&oq=OpenWeatherMap+API&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgxNDk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+## live Demo
+[live demo] (https://akashakkiweather.netlify.app/)
 ## Future Enhancements
     Weather Alerts: Integrate severe weather alerts for added safety.
     Localization: Add support for multiple languages.
